@@ -1,0 +1,18 @@
+.el-menu-item.is-active {
+    background: #FFFFFF;
+}
+.el-menu-item{
+    width: 195px;
+    height: 40px;
+    background: none;;
+    border-radius: 6px;
+    margin: auto;
+}
+
+.subject-form .el-form-item{
+    margin: 0;
+}
+
+.el-dialog{
+    border-radius: 20px !important;
+}
